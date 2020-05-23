@@ -4,7 +4,6 @@
   "description": "Create your first firebase function start",
   "scripts": {
     "start:frontend": "parcel ./index.html",
-    "start:function": "(cd functions && npm run start)",
     "start": "(cd functions && npm run serve) & npm run start:frontend"
   },
   "keywords": [],
