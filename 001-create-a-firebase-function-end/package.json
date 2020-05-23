@@ -1,7 +1,7 @@
 {
-  "name": "create-a-firebase-function-start",
+  "name": "create-a-firebase-function-end",
   "version": "1.0.0",
-  "description": "Create your first firebase function start",
+  "description": "Create your first firebase function end",
   "scripts": {
     "start:frontend": "parcel ./index.html",
     "start": "(cd functions && npm run serve) & npm run start:frontend"
