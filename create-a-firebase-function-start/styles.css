@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  padding: 32px;
+}
+
+h1,
+h2 {
+  margin-top: 0;
+}
