@@ -1,0 +1,17 @@
+{
+  "name": "create-a-firebase-function-start",
+  "version": "1.0.0",
+  "description": "Create your first firebase function start",
+  "scripts": {
+    "start:frontend": "parcel ./index.html",
+    "start:function": "(cd functions && npm run start)",
+    "start": "(cd functions && npm run serve) & npm run start:frontend"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": "",
+  "dependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
